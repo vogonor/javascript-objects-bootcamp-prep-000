@@ -1,3 +1,5 @@
 var playList = { 
-  beyonce : "Single Ladies"},
-  {
+    Beyonce : "Single LBeyonce",
+    
+    "Erykah Badu" : 
+  
