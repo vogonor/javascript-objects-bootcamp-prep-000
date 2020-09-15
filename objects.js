@@ -1,1 +1,3 @@
-var playList = { beyonce : "Single Ladies"}
+var playList = { 
+  beyonce : "Single Ladies"},
+  {
